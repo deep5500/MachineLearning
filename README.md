@@ -1,6 +1,6 @@
 # MachineLearning
 A collection of various algorithms under ML coded in Python.
-
+Deepasnhu choudhary
 ## Python Libraries:
 * Scikit-learn [(sklearn)](https://en.wikipedia.org/wiki/Scikit-learn) is a free software machine learning library for the Python programming language.
 
